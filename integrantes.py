@@ -11,3 +11,6 @@ integrantes = [
 print("\nIntegrantes:")
 for nombre in integrantes:
     print(f"- {nombre}")
+    print("evaluacion 1")
+
+ 
